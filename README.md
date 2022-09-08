@@ -7,7 +7,7 @@ Whereas if you want to run RL training, please refer to [feature/ppo branch.](ht
 
 If you face any problem, please feel free to open any issues. 
 
-\bf{NOTE}: This project was done as a part of the Natural Language Understanding course by Prof. Sam Bowman at NYU. 
+NOTE: This project was done as a part of the Natural Language Understanding course by Prof. Sam Bowman at NYU. 
 
 
 Team Members:
