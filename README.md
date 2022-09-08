@@ -1,9 +1,21 @@
-# NLU Project
+# Red Teaming Language Models
+
+This is an unofficial implementation of the paper [Red Teaming Language Models with Language Models](https://arxiv.org/abs/2202.03286). Instead of implementing on Gopher Language model which is not open to the public, we have reimplemented it for common language models like GPT-2, GPT-2 Large etc. 
 
 All of the supervised learning code is on master branch. 
-Whereas if you want to run RL training, please refer to feature/ppo branch.
+Whereas if you want to run RL training, please refer to [feature/ppo branch.](https://github.com/rahuja123/RedTeamingLanguageModels/tree/feature/ppo)
 
-Code adapted from:
+If you face any problem, please feel free to open any issues. 
+
+NOTE: This project was done as a part of the Natural Language Understanding course by Prof. Sam Bowman at NYU. 
+
+
+Team Members:
+1. Rahul Ahuja (ra3136@nyu.edu)
+2. Anugya Srivastava (as14770@nyu.edu)
+3. Rohith Mukku (rm5708@nyu.edu)
+
+Code inspired/adapted from:
 
 1. https://github.com/facebookresearch/ParlAI/tree/main/parlai
 2. https://github.com/lvwerra/trl
