@@ -5,7 +5,13 @@ This is an unofficial implementation of the paper [Red Teaming Language Models w
 All of the supervised learning code is on master branch. 
 Whereas if you want to run RL training, please refer to [feature/ppo branch.](https://github.com/rahuja123/RedTeamingLanguageModels/tree/feature/ppo)
 
+
+We also explore various failure cases for few shot learning and Reinforcement learning during automatic test generation. 
+
+Our version of the paper can be found here : [No Offense Taken: Eliciting Offensiveness from Language Models](https://rohithmukku.github.io/assets/NLU_Report.pdf)
+
 If you face any problem, please feel free to open any issues. 
+
 
 NOTE: This project was done as a part of the Natural Language Understanding course by Prof. Sam Bowman at NYU. 
 
